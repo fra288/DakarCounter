@@ -9,6 +9,7 @@
   "dependencies": {
     "discord.js": "^14.14.1"
   },
-  "author": "",
-  "license": ""
+  "author": "Euforia Group",
+  "license": "MIT"
+
 }
